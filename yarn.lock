@@ -3063,7 +3063,7 @@ dom-serializer@0:
     domelementtype "~1.1.1"
     entities "~1.1.1"
 
-dom-testing-library@^3.13.1:
+dom-testing-library@^3.13.1, dom-testing-library@^3.13.2:
   version "3.13.2"
   resolved "https://registry.yarnpkg.com/dom-testing-library/-/dom-testing-library-3.13.2.tgz#056883fcf37a076c3a45a5fe74c829faefced081"
   integrity sha512-sV1G1elCdN/7QNv8WzrXPlkdUUarNN7R0TrvUya9QaJK/pEu7KRxxNsdZeNnT08FHN8e8IirF/r5xD2RJJP06A==
